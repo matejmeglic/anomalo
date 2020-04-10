@@ -19,7 +19,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 7s linear;
+    animation: App-logo-spin infinite 5s linear;
   }
 }
 
@@ -31,8 +31,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
-}
+  }
 
 .App-link {
   color: #61dafb;
@@ -40,9 +39,9 @@
 
 @keyframes App-logo-spin {
   0%{transform: rotate(0deg);}
-  25%{transform: rotate(20deg)}
+  25%{transform: rotate(13deg)}
   50%{transform: rotate(0deg)}
-  75%{transform: rotate(-20deg);}
+  75%{transform: rotate(-13deg);}
   100%{transform: rotate(0deg);}
 }
 
@@ -53,18 +52,34 @@ a {
   text-decoration:none; 
 }
 
-p {
+h2 {
   font-family: barrio;
   font-size: 26px;
   color: #525252;
 }
 
-.icons {
-  font-size:6px; 
-  text-decoration:none; 
-  color: white;
+.buttons {
+  padding-bottom: 20px;
 }
 
-.icon_social {
-opacity: .59;
+#slo {
+  font-family: jannscript;
+  margin-right: 10px;
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  color: gray;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#en {
+  font-family: jannscript;
+  margin-right: 10px;
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  color: gray;
+  text-decoration: none;
+  cursor: pointer;
 }
