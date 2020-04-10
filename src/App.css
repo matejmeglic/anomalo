@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+@font-face {
+  font-family: jannscript;
+  src: url(./fonts/jannscript.otf);
+}
+
+@font-face {
+  font-family: barrio;
+  src: url(./fonts/Barrio-Regular.otf);
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 7s linear;
@@ -37,12 +47,16 @@
 }
 
 a {
+  font-family: jannscript;
   color: gray;
-  font-size: 20px;
+  font-size: 18px;
+  text-decoration:none; 
 }
 
 p {
-  color: darkgray;
+  font-family: barrio;
+  font-size: 26px;
+  color: #525252;
 }
 
 .icons {
@@ -53,6 +67,4 @@ p {
 
 .icon_social {
 opacity: .59;
-max-width: 32px;
-max-height: 32px;
 }

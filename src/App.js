@@ -12,8 +12,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p> </p>
         <p>
-          Anomalo živi. Ustvarjava luštne stvari.
-        </p>
+        Anomalo živi.<br />
+        Ustvarjava luštne stvari.</p>
         <a
           className="AnoMalo-Dnevnik"
           href=" https://bit.ly/anomalodnevnik"
@@ -40,16 +40,9 @@ function App() {
         </a>
         <p> </p>
         <div>
-          <span><a href="https://www.facebook.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><img src={fb} className="icon_social" alt="facebook" /></a></span>
-          <span><a href="https://www.instagram.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><img src={ig} className="icon_social" alt="instagram" /></a></span>
+          <span><a href="https://www.facebook.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square fa-lg"></i></a></span>&nbsp;
+          <span><a href="https://www.instagram.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram fa-lg"></i></a></span>
         </div>
-
-        <a
-          href="https://www.iconfinder.com/ranahpixel.co"
-          className="icons"
-        >
-          Icons under Creative Commons 2.5 Generic licence. MM :)
-        </a>
       </header>
     </div>
   );
