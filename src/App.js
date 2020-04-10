@@ -6,14 +6,11 @@ import lang_slo from './content/slo.md';
 import lang_en from './content/en.md';
 var selected_lang;
 
+//browser local-storage check & load
 if (localStorage.getItem("language") === null) {localStorage.setItem("language", "slo");};
-
 if (localStorage.getItem("language") === "slo") {selected_lang=lang_slo} 
   else if (localStorage.getItem("language") === "en") {selected_lang=lang_en}
   else {console.log("Here be dragons.");}
-
-
-
 
 class App extends Component {
 
@@ -22,13 +19,12 @@ class App extends Component {
     this.state = { markdown: '' };
   }
 
-
   componentWillMount() {
     fetch(selected_lang).then(res => res.text()).then(text => this.setState({ markdown: text }));
   }
 
   render() {
-
+//multi-lang support
     var slo = document.getElementById("slo");
     var en = document.getElementById("en");
     
@@ -45,7 +41,7 @@ class App extends Component {
           window.location.reload(false);
         }
 
-    
+//html    
     const { markdown } = this.state;
     return (
       <div className="App">
@@ -64,27 +60,4 @@ class App extends Component {
   }
 } 
 
-
-
-/*
-function App() {
-
-  return (
-    <div className="App">
-      <header className="App-header">
-      
-        <img src={logo} className="App-logo" alt="logo" />
-        <p> </p>
-        <div className="showContent"><ReactMarkdown source={input} /></div>
-        <p> </p>
-        <div>
-          <span><a href="https://www.facebook.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square fa-lg"></i></a></span>&nbsp;
-          <span><a href="https://www.instagram.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram fa-lg"></i></a></span>
-        </div>
-      </header>
-    </div>
-  );
-}
-
-*/
 export default App;
