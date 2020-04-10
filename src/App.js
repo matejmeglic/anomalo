@@ -48,7 +48,7 @@ function App() {
           href="https://www.iconfinder.com/ranahpixel.co"
           className="icons"
         >
-          Icons under Creative Commons 2.5 Generic licence.
+          Icons under Creative Commons 2.5 Generic licence. MM :)
         </a>
       </header>
     </div>
