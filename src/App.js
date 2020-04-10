@@ -20,7 +20,23 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Prenesi dnevnik!
+          Prenesi #ostanidoma dnevnik!
+        </a>
+        <a
+          className="AnoMalo-Dnevnik"
+          href=" https://bit.ly/anomaloaktivnosti"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Želiš zbirko Aktivnosti #ostanidoma?
+        </a>
+        <a
+          className="AnoMalo-Dnevnik"
+          href="https://bit.ly/anomaloactivitybook"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Or would you rather have Stay-at-home Activity Book?
         </a>
         <p> </p>
         <div>
@@ -32,7 +48,7 @@ function App() {
           href="https://www.iconfinder.com/ranahpixel.co"
           className="icons"
         >
-          Icons under Creative Commons 2.5 Generic licence.
+          Icons under Creative Commons 2.5 Generic licence. MM :)
         </a>
       </header>
     </div>
