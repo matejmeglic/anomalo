@@ -6,19 +6,21 @@ import lang_slo from './content/slo.md';
 import lang_en from './content/en.md';
 var selected_lang;
 
-
+// check lang in_browser
 var arrayLang = window.navigator.languages;
 console.log(arrayLang);
-console.log(arrayLang[0]);
-
+// set SLO lang if in_browser
+if (localStorage.getItem("language") === null) {
 arrayLang.forEach(current_lang => {
-  console.log(current_lang);
   if (current_lang === "sl" || current_lang === "sl-SI") {
-    localStorage.setItem("language", "slo");
-    console.log("set SLO!");
-    } else localStorage.setItem("language", "en"); console.log("set EN!");
+    localStorage.setItem("language", "slo"); console.log("set SLO!");
+    } 
 });
-
+};
+// set EN lang if SLO is not in_browser
+if (localStorage.getItem("language") === null) {
+  localStorage.setItem("language", "en"); console.log("set EN!");
+};
 
 
 //browser local-storage check & load
