@@ -3,3 +3,4 @@
 <a href="https://bit.ly/anomaloaktivnosti" target="_blank" rel="noopener noreferrer">Želiš zbirko Aktivnosti #ostanidoma?</a><br />
 <a href="https://bit.ly/anomaloaktivnosti" target="_blank" rel="noopener noreferrer">Želiš zbirko Aktivnosti #ostanidoma?</a><br />
 <a href="https://bit.ly/anomaloaktivnosti" target="_blank" rel="noopener noreferrer">Želiš zbirko Aktivnosti #ostanidoma?</a><br />
+<a href="https://bit.ly/anomalodnevnik" target="_blank" rel="noopener noreferrer">Prenesi #ostanidoma dnevnik!</a>
