@@ -52,7 +52,6 @@ class App extends Component {
           <span><a href="https://www.facebook.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square fa-lg"></i></a></span>&nbsp;
           <span><a href="https://www.instagram.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram fa-lg"></i></a></span>
         </div>
-      <p> </p>
         <div className="markdown_file"><ReactMarkdown source={markdown} escapeHtml={false} /></div>
       </header>
       </div>
