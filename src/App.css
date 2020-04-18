@@ -48,8 +48,24 @@
 a {
   font-family: jannscript;
   color: gray;
-  font-size: 18px;
+  font-size: 16px;
   text-decoration:none; 
+  margin-bottom:20px;
+}
+
+p {
+  font-family: jannscript;
+  color: gray;
+  font-size: 16px;
+  margin-bottom:20px;
+ }
+
+.social_icons {
+  margin-top:20px;
+}
+
+img {
+  margin-bottom:20px;
 }
 
 h2 {

@@ -49,8 +49,8 @@ class App extends Component {
         <div className="buttons"><button id="slo" onclick="slo">SLO</button><button id="en" onclick="en">EN</button></div>
         <img src={logo} className="App-logo" alt="logo" />
         <div>
-          <span><a href="https://www.facebook.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square fa-lg"></i></a></span>&nbsp;
-          <span><a href="https://www.instagram.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram fa-lg"></i></a></span>
+          <span><a href="https://www.facebook.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square fa-lg social_icons"></i></a></span>&nbsp;
+          <span><a href="https://www.instagram.com/anomalo.si/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram fa-lg social_icons"></i></a></span>
         </div>
         <div className="markdown_file"><ReactMarkdown source={markdown} escapeHtml={false} /></div>
       </header>
