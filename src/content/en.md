@@ -1,6 +1,6 @@
 <h2>Welcome to Anomalo!</h2>
 <p>Click on the image and download Anomalo resource.</p>
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C7RDUMHNRMR28&source=url" target="_blank" rel="noopener noreferrer"><img src="/img/Donate_175px.jpg" alt="Support us!"/></a><br />
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C7RDUMHNRMR28&source=url" target="_blank" rel="noopener noreferrer"><img src="/img/Donate_175px.jpg" alt="Support us!" style="padding-bottom:10px;"/></a><br />
 <!-- Posts go here -->
 <!-- Row 1 -->
 <a href="https://bit.ly/anomalobookday" target="_blank" rel="noopener noreferrer"><img src="/img/EN_WorldBookDay_350px.jpg" alt="WorldBookDay"/></a>&nbsp;
