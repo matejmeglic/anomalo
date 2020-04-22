@@ -2,7 +2,9 @@
 <p>Click on the image and download Anomalo resource.</p>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C7RDUMHNRMR28&source=url" target="_blank" rel="noopener noreferrer"><img src="/img/Donate_175px.jpg" alt="Support us!"/></a><br />
 <!-- Posts go here -->
+<!-- Row 1 -->
 <a href="https://bit.ly/anomalobookday" target="_blank" rel="noopener noreferrer"><img src="/img/EN_WorldBookDay_350px.jpg" alt="WorldBookDay"/></a>&nbsp;
 <a href="https://bit.ly/anomalomemorygame" target="_blank" rel="noopener noreferrer"><img src="/img/EN_Memory_350px.jpg" alt="MemoryGame"/></a>&nbsp;
 <a href="https://bit.ly/anomaloherbarium" target="_blank" rel="noopener noreferrer"><img src="/img/EN_Herbarium_350px.jpg" alt="Herbarium"/></a><br />
+<!-- Row 2 -->
 <a href="https://bit.ly/anomaloactivitybook" target="_blank" rel="noopener noreferrer"><img src="/img/SAHActivityBook_350px.jpg" alt="ActivityBook"/></a>
