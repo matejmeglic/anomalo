@@ -44,3 +44,4 @@
 <a href="https://bit.ly/anomaloaktivnosti" target="_blank" rel="noopener noreferrer"><img src="/img/ODAktivnost_350px.jpg" alt="Ostani Doma Aktivnosti"/></a><br />
 <!-- Row 11 -->
 <a href="https://bit.ly/anomalodnevnik" target="_blank" rel="noopener noreferrer"><img src="/img/ODDnevnik_350px.jpg" alt="Ostani Doma Dnevnik"/></a>&nbsp;
+<p>.</p>
