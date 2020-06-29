@@ -5,7 +5,7 @@
 <!-- Row 1 -->
 <a href="https://bit.ly/anomalobattleships" target="_blank" rel="noopener noreferrer"><img src="/img/EN_Potapljanje Ladjic Post_350px.jpg" alt="Battleships"/></a>&nbsp;
 <a href="https://bit.ly/anomalosummereadingchallenge" target="_blank" rel="noopener noreferrer"><img src="/img/EN_PoletniBralniIzzivPost_350px.jpg" alt="Summer Reading Challenge"/></a>&nbsp;
-<a href="https://bit.ly/anomaloendoftheyear2" target="_blank" rel="noopener noreferrer"><img src="/img/EN_ObKoncuŠole2Post_350px.jpg" alt="End of the Year 2"/></a><br />
+<a href="https://bit.ly/anomaloendoftheyear2" target="_blank" rel="noopener noreferrer"><img src="/img/EN_ObKoncuŠole#2Post_350px.jpg" alt="End of the Year 2"/></a><br />
 <!-- Row 2 -->
 <a href="https://bit.ly/anomalopackingcheclist" target="_blank" rel="noopener noreferrer"><img src="/img/EN_FBPotovalniSeznam_350px.jpg" alt="Packinglist"/></a>&nbsp;
 <a href="https://bit.ly/anomalorecipestemplates" target="_blank" rel="noopener noreferrer"><img src="/img/EN_FBPostRecepti_350px.jpg" alt="Recipes Template"/></a>&nbsp;

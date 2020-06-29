@@ -5,7 +5,7 @@
 <!-- Row 1 -->
 <a href="https://bit.ly/anomalopotapljanjeladjic" target="_blank" rel="noopener noreferrer"><img src="/img/SL_Potapljanje Ladjic Post_350px.jpg" alt="Potapljanje ladjic"/></a>&nbsp;
 <a href="https://bit.ly/anomalopoletnibralniizziv" target="_blank" rel="noopener noreferrer"><img src="/img/SL_PoletniBralniIzzivPost_350px.jpg" alt="Poletni bralni izziv"/></a>&nbsp;
-<a href="https://bit.ly/anomaloobkoncušolskegaleta2" target="_blank" rel="noopener noreferrer"><img src="/img/SL_ObKoncuŠole2Post_350px.jpg" alt="Ob koncu šolskega leta 2"/></a><br />
+<a href="https://bit.ly/anomaloobkoncušolskegaleta2" target="_blank" rel="noopener noreferrer"><img src="/img/SL_ObKoncuŠole#2Post_350px.jpg" alt="Ob koncu šolskega leta 2"/></a><br />
 <!-- Row 2 -->
 <a href="https://bit.ly/anomalopotovalniseznam" target="_blank" rel="noopener noreferrer"><img src="/img/SL_FBPotovalniSeznam_350px.jpg" alt="Potovalni Seznam"/></a>&nbsp;
 <a href="https://bit.ly/anomaloreceptipredloga" target="_blank" rel="noopener noreferrer"><img src="/img/SL_FBPostRecepti_350px.jpg" alt="Recepti predloga"/></a>&nbsp;
@@ -27,7 +27,7 @@
 <a href="https://bit.ly/anomalokoreanactivitybook" target="_blank" rel="noopener noreferrer"><img src="/img/SL_KOR_activitybook_350px.jpg" alt="Korean Activity Book"/></a>&nbsp;
 <a href="https://bit.ly/anomalofotokarticeM" target="_blank" rel="noopener noreferrer"><img src="/img/SL_Babymilestones2_350px.jpg" alt="Foto Kartice M"/></a><br />
 <!-- Row 7 -->
-<a href="https://bit.ly/anomalosamoocenjevanje" target="_blank" rel="noopener noreferrer"><img src="/img/SL_Samoocenjevanje_350px.jpg" alt="Samoocenjevanje"/></a>&nbsp;
+<a href="https://bit.ly/anomaloinsamoocenjevanje" target="_blank" rel="noopener noreferrer"><img src="/img/SL_Samoocenjevanje_350px.jpg" alt="Samoocenjevanje"/></a>&nbsp;
 <a href="https://bit.ly/anomalonovice" target="_blank" rel="noopener noreferrer"><img src="/img/SL_DnevneNovice_350px.jpg" alt="Dnevne Novice"/></a>&nbsp;
 <a href="https://bit.ly/anomalopopocitnicah" target="_blank" rel="noopener noreferrer"><img src="/img/SL_PoPočitniška_350px.jpg" alt="Po Počitniška Gradiva"/></a><br />
 <!-- Row 8 -->
