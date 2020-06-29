@@ -2,6 +2,10 @@
 <p>Click on the image and download Anomalo resource.</p>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C7RDUMHNRMR28&source=url" target="_blank" rel="noopener noreferrer"><img src="/img/Donate_175px.jpg" alt="Support us!" style="padding-bottom:10px;"/></a><br />
 <!-- Posts go here -->
+<!-- Row 1 -->
+<a href="https://bit.ly/anomalobattleships" target="_blank" rel="noopener noreferrer"><img src="/img/EN_Potapljanje Ladjic Post_350px.jpg" alt="Battleships"/></a>&nbsp;
+<a href="https://bit.ly/anomalosummereadingchallenge" target="_blank" rel="noopener noreferrer"><img src="/img/EN_PoletniBralniIzzivPost_350px.jpg" alt="Summer Reading Challenge"/></a>&nbsp;
+<a href="https://bit.ly/anomaloendoftheyear2" target="_blank" rel="noopener noreferrer"><img src="/img/EN_ObKoncuŠole#2Post_350px.jpg" alt="End of the Year 2"/></a><br />
 <!-- Row 2 -->
 <a href="https://bit.ly/anomalopackingcheclist" target="_blank" rel="noopener noreferrer"><img src="/img/EN_FBPotovalniSeznam_350px.jpg" alt="Packinglist"/></a>&nbsp;
 <a href="https://bit.ly/anomalorecipestemplates" target="_blank" rel="noopener noreferrer"><img src="/img/EN_FBPostRecepti_350px.jpg" alt="Recipes Template"/></a>&nbsp;
