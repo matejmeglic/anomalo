@@ -2,6 +2,10 @@
 <p>Click on the image and download Anomalo resource.</p>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C7RDUMHNRMR28&source=url" target="_blank" rel="noopener noreferrer"><img src="/img/Donate_175px.jpg" alt="Support us!" style="padding-bottom:10px;"/></a><br />
 <!-- Posts go here -->
+<!-- Row +1 -->
+<a href="https://bit.ly/anomalohomemadelabels" target="_blank" rel="noopener noreferrer"><img src="/img/EN_PostLabels_350px.jpg" alt="Homemade Labels"/></a>&nbsp;
+<a href="https://bit.ly/anomalotraveljournal" target="_blank" rel="noopener noreferrer"><img src="/img/ENG_PostPotovalniDnevnik_350px.jpg" alt="Travel Journal"/></a>&nbsp;
+<a href="https://bit.ly/anomalodrawcipes" target="_blank" rel="noopener noreferrer"><img src="/img/EN_FBSlikocepti_350px.jpg" alt="Drawcipes"/></a><br />
 <!-- Row 1 -->
 <a href="https://bit.ly/anomalobattleships" target="_blank" rel="noopener noreferrer"><img src="/img/EN_Potapljanje Ladjic Post_350px.jpg" alt="Battleships"/></a>&nbsp;
 <a href="https://bit.ly/anomalosummereadingchallenge" target="_blank" rel="noopener noreferrer"><img src="/img/EN_PoletniBralniIzzivPost_350px.jpg" alt="Summer Reading Challenge"/></a>&nbsp;

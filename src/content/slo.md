@@ -2,6 +2,10 @@
 <p>Klikni na sliko in prenesi Anomalo gradiva.</p>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C7RDUMHNRMR28&source=url" target="_blank" rel="noopener noreferrer"><img src="/img/Doniraj_175px.jpg" alt="Podpri naju!" style="padding-bottom:10px;"/></a><br />
 <!-- Posts go here -->
+<!-- Row +1 -->
+<a href="https://bit.ly/anomalodomaceoznake" target="_blank" rel="noopener noreferrer"><img src="/img/SL_PostLabels_350px.jpg" alt="Domace Oznake"/></a>&nbsp;
+<a href="https://bit.ly/anomalopotovalnidnevnik" target="_blank" rel="noopener noreferrer"><img src="/img/SL_PostPotovalniDnevnik_350px.jpg" alt="Potovalni Dnevnik"/></a>&nbsp;
+<a href="https://bit.ly/anomaloslikocepti" target="_blank" rel="noopener noreferrer"><img src="/img/SL_FBSlikocepti_350px.jpg" alt="Slikocepti"/></a><br />
 <!-- Row 1 -->
 <a href="https://bit.ly/anomalopotapljanjeladjic" target="_blank" rel="noopener noreferrer"><img src="/img/SL_Potapljanje Ladjic Post_350px.jpg" alt="Potapljanje ladjic"/></a>&nbsp;
 <a href="https://bit.ly/anomalopoletnibralniizziv" target="_blank" rel="noopener noreferrer"><img src="/img/SL_PoletniBralniIzzivPost_350px.jpg" alt="Poletni bralni izziv"/></a>&nbsp;
