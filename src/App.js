@@ -6,6 +6,16 @@ import lang_slo from './content/slo.md';
 import lang_en from './content/en.md';
 var selected_lang;
 
+// GA - Sample authentication provider
+import ReactGA from 'react-ga';
+import auth from './auth.ts';
+
+const trackingId = "UA-60638012-4"; 
+ReactGA.initialize(trackingId);
+ReactGA.set({
+  userId: auth.currentUserId(),
+})
+
 //browser local-storage check & load
 if (localStorage.getItem("language") === null) {localStorage.setItem("language", "slo");};
 if (localStorage.getItem("language") === "slo") {selected_lang=lang_slo} 
