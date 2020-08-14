@@ -2,6 +2,10 @@
 <p>Klikni na sliko in prenesi Anomalo gradiva.</p>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C7RDUMHNRMR28&source=url" target="_blank" rel="noopener noreferrer"><img src="/img/Doniraj_175px.jpg" alt="Podpri naju!" style="padding-bottom:10px;"/></a><br />
 <!-- Posts go here -->
+<!-- Row +2 -->
+<a href="https://bit.ly/anomaloobzacetkusolskegaleta2" target="_blank" rel="noopener noreferrer"><img src="/img/SL_ObzačetkuletaPost2_350px.jpg" alt="Ob začetku leta 2"/></a>&nbsp;
+<a href="https://bit.ly/anomaloplanerji" target="_blank" rel="noopener noreferrer"><img src="/img/SL_FBPlanerji_350px.jpg" alt="Planerji"/></a>&nbsp;
+<a href="https://bit.ly/anomaloobzacetkusolskegaleta" target="_blank" rel="noopener noreferrer"><img src="/img/SL_ObzačetkuletaPost1_350px.jpg" alt="Ob začetku leta 1"/></a><br />
 <!-- Row +1 -->
 <a href="https://bit.ly/anomalodomaceoznake" target="_blank" rel="noopener noreferrer"><img src="/img/SL_PostLabels_350px.jpg" alt="Domace Oznake"/></a>&nbsp;
 <a href="https://bit.ly/anomalopotovalnidnevnik" target="_blank" rel="noopener noreferrer"><img src="/img/SL_PostPotovalniDnevnik_350px.jpg" alt="Potovalni Dnevnik"/></a>&nbsp;
