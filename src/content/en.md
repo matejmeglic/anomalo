@@ -2,6 +2,10 @@
 <p>Click on the image and download Anomalo resource.</p>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C7RDUMHNRMR28&source=url" target="_blank" rel="noopener noreferrer"><img src="/img/Donate_175px.jpg" alt="Support us!" style="padding-bottom:10px;"/></a><br />
 <!-- Posts go here -->
+<!-- Row +2 -->
+<a href="https://bit.ly/anomalostartoftheyear2" target="_blank" rel="noopener noreferrer"><img src="/img/EN_ObzačetkuletaPost2_350PX.jpg" alt="Start of school year 2"/></a>&nbsp;
+<a href="https://bit.ly/anomaloplanners" target="_blank" rel="noopener noreferrer"><img src="/img/EN_FBPlanerji_350px.jpg" alt="Planners"/></a>&nbsp;
+<a href="https://bit.ly/anomalostartoftheyear" target="_blank" rel="noopener noreferrer"><img src="/img/EN_ObzačetkuletaPost1_350px.jpg" alt="Start of school year 1"/></a><br />
 <!-- Row +1 -->
 <a href="https://bit.ly/anomalohomemadelabels" target="_blank" rel="noopener noreferrer"><img src="/img/EN_PostLabels_350px.jpg" alt="Homemade Labels"/></a>&nbsp;
 <a href="https://bit.ly/anomalotraveljournal" target="_blank" rel="noopener noreferrer"><img src="/img/ENG_PostPotovalniDnevnik_350px.jpg" alt="Travel Journal"/></a>&nbsp;
