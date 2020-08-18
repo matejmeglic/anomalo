@@ -1,14 +1,15 @@
-import OneTile from "./OneTile";
-import $ from "jquery";
+import React from 'react'
 
 function Grid(props) {
-  let exportGrid = [];
-
-  for (let i = 0; i < props.articles.length; i++) {
-    exportGrid.push(OneTile(props.articles[i]));
-  }
-
-  return exportGrid;
+  return (
+    <div className='gallery'>
+      {props.articles.map((article) => (
+        <a key={article.id} href={article.link} target="_blank" rel="noopener noreferrer">
+          <img src={article.source} alt={article.alt} />
+        </a>
+      ))}
+    </div>
+  )
 }
 
-export default Grid;
+export default Grid

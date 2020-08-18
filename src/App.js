@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import logo from "./img/am_logo.png";
 import "./App.css";
-import LazyLoad from "react-lazyload"; //used in .md files
 import Grid from "./components/Grid";
 import * as data from "./content/articles.json";
 
@@ -20,24 +19,24 @@ class App extends Component {
     //   en.addEventListener("click", set_en, false);
     // }
 
-    // function set_slo() {
-    //   localStorage.setItem("language", "slo");
-    //   window.location.reload(false);
-    // }
+    function set_slo() {
+      localStorage.setItem("language", "slo");
+      window.location.reload(false);
+    }
 
-    // function set_en() {
-    //   localStorage.setItem("language", "en");
-    //   window.location.reload(false);
-    // }
+    function set_en() {
+      localStorage.setItem("language", "en");
+      window.location.reload(false);
+    }
 
     return (
       <div className="App">
         <header className="App-header">
           <div className="buttons">
-            <button id="slo" onclick="slo">
+            <button id="slo" onClick={set_slo}>
               SLO
             </button>
-            <button id="en" onclick="en">
+            <button id="en" onClick={set_en}>
               EN
             </button>
           </div>
@@ -63,9 +62,7 @@ class App extends Component {
               </a>
             </span>
           </div>
-          <div className="gallery">
-            <Grid articles={data.articles}></Grid>
-          </div>
+          <Grid articles={data.articles}></Grid>
         </header>
       </div>
     );
