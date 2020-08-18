@@ -1,60 +1,35 @@
 import React, { Component } from "react";
 import logo from "./img/am_logo.png";
 import "./App.css";
-import ReactMarkdown from "react-markdown/with-html";
 import LazyLoad from "react-lazyload"; //used in .md files
-import lang_slo from "./content/slo.md";
-import lang_en from "./content/en.md";
-var selected_lang;
-
-//browser local-storage check & load
-if (localStorage.getItem("language") === null) {
-  localStorage.setItem("language", "slo");
-}
-if (localStorage.getItem("language") === "slo") {
-  selected_lang = lang_slo;
-} else if (localStorage.getItem("language") === "en") {
-  selected_lang = lang_en;
-} else {
-  console.log("Here be dragons.");
-}
+import Grid from "./components/Grid";
+import * as data from "./content/articles.json";
 
 class App extends Component {
-  constructor() {
-    super();
-    this.state = { markdown: "" };
-  }
-
-  componentWillMount() {
-    fetch(selected_lang)
-      .then((res) => res.text())
-      .then((text) => this.setState({ markdown: text }));
-  }
+  componentDidMount() {}
 
   render() {
     //multi-lang support
-    var slo = document.getElementById("slo");
-    var en = document.getElementById("en");
+    // var slo = document.getElementById("slo");
+    // var en = document.getElementById("en");
 
-    if (slo) {
-      slo.addEventListener("click", set_slo, false);
-    }
-    if (en) {
-      en.addEventListener("click", set_en, false);
-    }
+    // if (slo) {
+    //   slo.addEventListener("click", set_slo, false);
+    // }
+    // if (en) {
+    //   en.addEventListener("click", set_en, false);
+    // }
 
-    function set_slo() {
-      localStorage.setItem("language", "slo");
-      window.location.reload(false);
-    }
+    // function set_slo() {
+    //   localStorage.setItem("language", "slo");
+    //   window.location.reload(false);
+    // }
 
-    function set_en() {
-      localStorage.setItem("language", "en");
-      window.location.reload(false);
-    }
+    // function set_en() {
+    //   localStorage.setItem("language", "en");
+    //   window.location.reload(false);
+    // }
 
-    //html
-    const { markdown } = this.state;
     return (
       <div className="App">
         <header className="App-header">
@@ -74,7 +49,7 @@ class App extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i class="fab fa-facebook-square fa-lg social_icons"></i>
+                <i className="fab fa-facebook-square fa-lg social_icons"></i>
               </a>
             </span>
             &nbsp;
@@ -84,12 +59,12 @@ class App extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i class="fab fa-instagram fa-lg social_icons"></i>
+                <i className="fab fa-instagram fa-lg social_icons"></i>
               </a>
             </span>
           </div>
-          <div className="markdown_file">
-            <ReactMarkdown source={markdown} escapeHtml={false} />
+          <div className="gallery">
+            <Grid articles={data.articles}></Grid>
           </div>
         </header>
       </div>
