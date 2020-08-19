@@ -6,7 +6,7 @@ import * as data_slo from "./content/slo.json";
 import InfiniteScroll from "react-infinite-scroll-component";
 
 const articlesShown = 8; // counts from 0, so use n-1
-const addArticles = 6;
+const addArticles = 9;
 const imagePath = "img/";
 let articlesAfterStateChange = articlesShown;
 
@@ -56,13 +56,13 @@ class App extends Component {
     articlesAfterStateChange =
       this.state.articlesShown + this.state.addArticles;
 
-    if (articlesAfterStateChange <= this.state.articlesLength) {
+    if (articlesAfterStateChange !== this.state.articlesLength) {
       setTimeout(() => {
         this.setState({
           articlesShown:
             articlesAfterStateChange < this.state.articlesLength
               ? this.state.articlesShown + addArticles
-              : articlesAfterStateChange - this.state.articlesLength,
+              : this.state.articlesLength,
         });
       }, 1500);
     } else {
