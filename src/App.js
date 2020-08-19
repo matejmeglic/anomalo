@@ -56,7 +56,7 @@ class App extends Component {
     articlesAfterStateChange =
       this.state.articlesShown + this.state.addArticles;
 
-    if (articlesAfterStateChange !== this.state.articlesLength) {
+    if (articlesAfterStateChange < this.state.articlesLength) {
       setTimeout(() => {
         this.setState({
           articlesShown:
@@ -66,6 +66,11 @@ class App extends Component {
         });
       }, 1500);
     } else {
+      setTimeout(() => {
+        this.setState({
+          articlesShown: this.state.articlesLength,
+        });
+      }, 1500);
       let loading = document.getElementById("loading");
       loading.innerHTML = "";
       let endOfScroll = document.createElement("h5");
