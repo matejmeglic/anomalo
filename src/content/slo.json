@@ -1,34 +1,196 @@
 {
   "articles": [
     {
-      "link": "https://bit.ly/anomalostartoftheyear2",
-      "source": "img/EN_ObzačetkuletaPost2_350PX.jpg",
-      "alt": "EN_ObzačetkuletaPost2_350PX.jpg"
+      "link": "https://bit.ly/anomaloobzacetkusolskegaleta2",
+      "source": "SL_ObzačetkuletaPost2_350px.jpg",
+      "alt": "Ob začetku leta 2"
     },
     {
-      "link": "https://bit.ly/anomalostartoftheyear2",
-      "source": "img/EN_ObzačetkuletaPost2_350PX.jpg",
-      "alt": "EN_ObzačetkuletaPost2_350PX.jpg"
+      "link": "https://bit.ly/anomaloplanerji",
+      "source": "SL_FBPlanerji_350px.jpg",
+      "alt": "Planerji"
     },
     {
-      "link": "https://bit.ly/anomalostartoftheyear2",
-      "source": "img/EN_ObzačetkuletaPost2_350PX.jpg",
-      "alt": "EN_ObzačetkuletaPost2_350PX.jpg"
+      "link": "https://bit.ly/anomaloobzacetkusolskegaleta",
+      "source": "SL_ObzačetkuletaPost1_350px.jpg",
+      "alt": "Ob začetku leta 1"
     },
     {
-      "link": "https://bit.ly/anomalostartoftheyear2",
-      "source": "img/EN_ObzačetkuletaPost2_350PX.jpg",
-      "alt": "EN_ObzačetkuletaPost2_350PX.jpg"
+      "link": "https://bit.ly/anomalodomaceoznake",
+      "source": "SL_PostLabels_350px.jpg",
+      "alt": "Domace Oznake"
     },
     {
-      "link": "https://bit.ly/anomalostartoftheyear2",
-      "source": "img/EN_ObzačetkuletaPost2_350PX.jpg",
-      "alt": "EN_ObzačetkuletaPost2_350PX.jpg"
+      "link": "https://bit.ly/anomalopotovalnidnevnik",
+      "source": "SL_PostPotovalniDnevnik_350px.jpg",
+      "alt": "Potovalni Dnevnik"
     },
     {
-      "link": "link2",
-      "source": "source2",
-      "alt": "alt_text2"
+      "link": "https://bit.ly/anomaloslikocepti",
+      "source": "SL_FBSlikocepti_350px.jpg",
+      "alt": "Slikocepti"
+    },
+    {
+      "link": "https://bit.ly/anomalopotapljanjeladjic",
+      "source": "SL_Potapljanje Ladjic Post_350px.jpg",
+      "alt": "Potapljanje ladjic"
+    },
+    {
+      "link": "https://bit.ly/anomalopoletnibralniizziv",
+      "source": "SL_PoletniBralniIzzivPost_350px.jpg",
+      "alt": "Poletni bralni izziv"
+    },
+    {
+      "link": "https://bit.ly/anomaloobkoncušolskegaleta2",
+      "source": "SL_ObKoncuŠole2Post_350px.jpg",
+      "alt": "Ob koncu šolskega leta 2"
+    },
+    {
+      "link": "https://bit.ly/anomalopotovalniseznam",
+      "source": "SL_FBPotovalniSeznam_350px.jpg",
+      "alt": "Potovalni Seznam"
+    },
+    {
+      "link": "https://bit.ly/anomaloreceptipredloga",
+      "source": "SL_FBPostRecepti_350px.jpg",
+      "alt": "Recepti predloga"
+    },
+    {
+      "link": "https://bit.ly/anomaloobkoncušolskegaleta",
+      "source": "SL_KonecLetaPost_350px.jpg",
+      "alt": "Ob koncu šolskega leta"
+    },
+    {
+      "link": "https://bit.ly/anomalorazglednice",
+      "source": "SL_DIYRazglednice_350px.jpg",
+      "alt": "Razglednice"
+    },
+    {
+      "link": "https://bit.ly/anomaločuječnost",
+      "source": "SL_ČuječnostPost_350px.jpg",
+      "alt": "Čuječnost"
+    },
+    {
+      "link": "https://bit.ly/anomalokuponi",
+      "source": "SL_Kuponi_350px.jpg",
+      "alt": "Kuponi"
+    },
+    {
+      "link": "https://bit.ly/anomaloumetniškeaktivnosti",
+      "source": "SL_Ustvarjalneaktivnosti_350px.jpg",
+      "alt": "Ustvarjalne Aktivnosti"
+    },
+    {
+      "link": "https://bit.ly/anomaloglasometer",
+      "source": "SL_Voicemeter_350px.jpg",
+      "alt": "Glasometer"
+    },
+    {
+      "link": "https://bit.ly/anomalogibalnaabeceda",
+      "source": "SL_GibalnaAbeceda_350px.jpg",
+      "alt": "Gibalna Abeceda"
+    },
+    {
+      "link": "https://bit.ly/anomaloactiviteitenboek",
+      "source": "SL_DutchActivityBook_350px.jpg",
+      "alt": "Activiteiten Boek"
+    },
+    {
+      "link": "https://bit.ly/2anomalofotokarticeŽ",
+      "source": "SL_Babymilestones1_350px.jpg",
+      "alt": "Foto Kartice Ž"
+    },
+    {
+      "link": "https://bit.ly/anomalopravljičnekocke",
+      "source": "SL_Kocke_350px.jpg",
+      "alt": "Pravljične Kocke"
+    },
+    {
+      "link": "https://bit.ly/anomalosprehodvnaravi",
+      "source": "SL_Sprehodvnaravi_350px.jpg",
+      "alt": "Sprehod v Naravi"
+    },
+    {
+      "link": "https://bit.ly/anomalokoreanactivitybook",
+      "source": "SL_KOR_activitybook_350px.jpg",
+      "alt": "Korean Activity Book"
+    },
+    {
+      "link": "https://bit.ly/anomalofotokarticeM",
+      "source": "SL_Babymilestones2_350px.jpg",
+      "alt": "Foto Kartice M"
+    },
+    {
+      "link": "https://bit.ly/anomaloinsamoocenjevanje",
+      "source": "SL_Samoocenjevanje_350px.jpg",
+      "alt": "Samoocenjevanje"
+    },
+    {
+      "link": "https://bit.ly/anomalonovice",
+      "source": "SL_DnevneNovice_350px.jpg",
+      "alt": "Dnevne Novice"
+    },
+    {
+      "link": "https://bit.ly/anomalopopocitnicah",
+      "source": "SL_PoPočitniška_350px.jpg",
+      "alt": "Po Počitniška Gradiva"
+    },
+    {
+      "link": "https://bit.ly/anomalovadba",
+      "source": "SL_PlanVadbe_350px.jpg",
+      "alt": "Plan Vadbe"
+    },
+    {
+      "link": "https://bit.ly/anomalospaßbroschüre",
+      "source": "SL_GermanTranslation_350px.jpg",
+      "alt": "Spaßbroschüre"
+    },
+    {
+      "link": "https://bit.ly/anomalogledališče",
+      "source": "SL_Theatre_350px.jpg",
+      "alt": "Senčno Gledališče"
+    },
+    {
+      "link": "https://bit.ly/attivitaIorestoacasa",
+      "source": "SL_Italijanski Prevod_350px.jpg",
+      "alt": "Attivita Iorestoacasa"
+    },
+    {
+      "link": "https://bit.ly/anomalovcopatih",
+      "source": "SL_PotujVCopatih_350px.jpg",
+      "alt": "Potuj v Copatih"
+    },
+    {
+      "link": "https://bit.ly/anomalodanknjige",
+      "source": "SL_SvetovniDanKnjige_350px.jpg",
+      "alt": "Svetovni Dan Knjige"
+    },
+    {
+      "link": "https://bit.ly/anomalospomin",
+      "source": "SL_Spomin_350px.jpg",
+      "alt": "Spomin"
+    },
+    {
+      "link": "https://bit.ly/anomaloherbarij",
+      "source": "SL_Herbarij_350px.jpg",
+      "alt": "Herbarij"
+    },
+    {
+      "link": "https://bit.ly/anomaloaktivnosti",
+      "source": "ODAktivnost_350px.jpg",
+      "alt": "Ostani Doma Aktivnosti"
+    },
+    {
+      "link": "https://bit.ly/anomalodnevnik",
+      "source": "ODDnevnik_350px.jpg",
+      "alt": "Ostani Doma Dnevnik"
     }
-  ]
+  ],
+  "loading": "Še več Anomalo? Brez problema...",
+  "endOfText": "Delite spletno strani in povejte, kaj vam je bilo najbolj všeč!",
+  "alive": "Anomalo živi.",
+  "cute": "Ustvarjava luštne stvari",
+  "instructions": "Klikni na sliko in prenesi Anomalo gradiva.",
+  "paypalButtonSrc": "/img/Doniraj_175px.jpg",
+  "altPaypal": "Podpri naju!"
 }

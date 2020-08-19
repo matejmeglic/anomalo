@@ -2,13 +2,190 @@
   "articles": [
     {
       "link": "https://bit.ly/anomalostartoftheyear2",
-      "source": "img/EN_ObzačetkuletaPost2_350PX.jpg",
-      "alt": "EN_ObzačetkuletaPost2_350PX.jpg"
+      "source": "EN_ObzačetkuletaPost2_350PX.jpg",
+      "alt": "Start of school year 2"
     },
     {
-      "link": "https://bit.ly/anomalostartoftheyear2",
-      "source": "img/EN_ObzačetkuletaPost2_350PX.jpg",
-      "alt": "EN_ObzačetkuletaPost2_350PX.jpg"
+      "link": "https://bit.ly/anomaloplanners",
+      "source": "EN_FBPlanerji_350px.jpg",
+      "alt": "Planners"
+    },
+    {
+      "link": "https://bit.ly/anomalostartoftheyear",
+      "source": "EN_ObzačetkuletaPost1_350px.jpg",
+      "alt": "Start of school year 1"
+    },
+    {
+      "link": "https://bit.ly/anomalohomemadelabels",
+      "source": "EN_PostLabels_350px.jpg",
+      "alt": "Homemade Labels"
+    },
+    {
+      "link": "https://bit.ly/anomalotraveljournal",
+      "source": "ENG_PostPotovalniDnevnik_350px.jpg",
+      "alt": "Travel Journal"
+    },
+    {
+      "link": "https://bit.ly/anomalodrawcipes",
+      "source": "EN_FBSlikocepti_350px.jpg",
+      "alt": "Drawcipes"
+    },
+    {
+      "link": "https://bit.ly/anomalobattleships",
+      "source": "EN_Potapljanje Ladjic Post_350px.jpg",
+      "alt": "Battleships"
+    },
+    {
+      "link": "https://bit.ly/anomalosummereadingchallenge",
+      "source": "EN_PoletniBralniIzzivPost_350px.jpg",
+      "alt": "Summer Reading Challenge"
+    },
+    {
+      "link": "https://bit.ly/anomaloendoftheyear2",
+      "source": "EN_ObKoncuŠole2Post_350px.jpg",
+      "alt": "End of the Year 2"
+    },
+    {
+      "link": "https://bit.ly/anomalopackingcheclist",
+      "source": "EN_FBPotovalniSeznam_350px.jpg",
+      "alt": "Packinglist"
+    },
+    {
+      "link": "https://bit.ly/anomalorecipestemplates",
+      "source": "EN_FBPostRecepti_350px.jpg",
+      "alt": "Recipes Template"
+    },
+    {
+      "link": "https://bit.ly/anomaloendoftheyear",
+      "source": "EN_KonecLetaPost_350px.jpg",
+      "alt": "End of the Year"
+    },
+    {
+      "link": "https://bit.ly/anomalopostcards",
+      "source": "EN_DIYRazglednice_350px.jpg",
+      "alt": "Postcards"
+    },
+    {
+      "link": "https://bit.ly/anomalomindfulnessbook",
+      "source": "EN_ČuječnostPost_350px.jpg",
+      "alt": "Mindfulness Book"
+    },
+    {
+      "link": "https://bit.ly/anomalocoupons",
+      "source": "EN_Kuponi_350px.jpg",
+      "alt": "Coupons"
+    },
+    {
+      "link": "https://bit.ly/anomalocreativeactivities",
+      "source": "EN_Ustvarjalneaktivnosti_350px.jpg",
+      "alt": "Creative Activities"
+    },
+    {
+      "link": "https://bit.ly/anomalovoicemeter",
+      "source": "EN_Voicemeter_350px.jpg",
+      "alt": "Voicemeter"
+    },
+    {
+      "link": "https://bit.ly/anomalomovingalphabet",
+      "source": "EN_GibalnaAbeceda_350px.jpg",
+      "alt": "Moving Alphabet"
+    },
+    {
+      "link": "https://bit.ly/anomaloactiviteitenboek",
+      "source": "EN_DutchActivityBook_350px.jpg",
+      "alt": "Activiteiten Boek"
+    },
+    {
+      "link": "https://bit.ly/anomalophotocardsLG",
+      "source": "EN_Babymilestones1_350px.jpg",
+      "alt": "Photo Cards LG"
+    },
+    {
+      "link": "https://bit.ly/anomalowritingcubes",
+      "source": "EN_Cubes_350px.jpg",
+      "alt": "Writing Cubes"
+    },
+    {
+      "link": "https://bit.ly/anomalonaturewalk",
+      "source": "EN_Sprehodvnaravi_350px.jpg",
+      "alt": "Nature Walk"
+    },
+    {
+      "link": "https://bit.ly/anomalokoreanactivitybook",
+      "source": "EN_KOR_activitybook_350px.jpg",
+      "alt": "Korean Activity Book"
+    },
+    {
+      "link": "https://bit.ly/anomalophotocardsDG",
+      "source": "EN_Babymilestones2_350px.jpg",
+      "alt": "Photo Cards DG"
+    },
+    {
+      "link": "https://bit.ly/anomaloselfassessment",
+      "source": "EN_SelfAssessment_350px.jpg",
+      "alt": "SelfAssessment"
+    },
+    {
+      "link": "https://bit.ly/anomalodailynews",
+      "source": "EN_DailyNews_350px.jpg",
+      "alt": "DailyNews"
+    },
+    {
+      "link": "https://bit.ly/anomalopostholiday",
+      "source": "EN_PostHoliday_350px.jpg",
+      "alt": "PostHolidayResources"
+    },
+    {
+      "link": "https://bit.ly/anomaloworkout",
+      "source": "EN_Workoutplan_350px.jpg",
+      "alt": "WorkoutPlan"
+    },
+    {
+      "link": "https://bit.ly/anomalospaßbroschüre",
+      "source": "EN_GermanTranslation_350px.jpg",
+      "alt": "Spaßbroschüre"
+    },
+    {
+      "link": "https://bit.ly/anomalotheatre",
+      "source": "EN_Theatre_350px.jpg",
+      "alt": "ShadowTheatre"
+    },
+    {
+      "link": "https://bit.ly/attivitaIorestoacasa",
+      "source": "EN_Italijanski Prevod_350px.jpg",
+      "alt": "AttivitaIorestoacasa"
+    },
+    {
+      "link": "https://bit.ly/anomaloinslippers",
+      "source": "EN_TravelInSlippers_350px.jpg",
+      "alt": "Travel In Slippers"
+    },
+    {
+      "link": "https://bit.ly/anomalobookday",
+      "source": "EN_WorldBookDay_350px.jpg",
+      "alt": "WorldBookDay"
+    },
+    {
+      "link": "https://bit.ly/anomalomemorygame",
+      "source": "EN_Memory_350px.jpg",
+      "alt": "MemoryGame"
+    },
+    {
+      "link": "https://bit.ly/anomaloherbarium",
+      "source": "EN_Herbarium_350px.jpg",
+      "alt": "Herbarium"
+    },
+    {
+      "link": "https://bit.ly/anomaloactivitybook",
+      "source": "SAHActivityBook_350px.jpg",
+      "alt": "ActivityBook"
     }
-  ]
+  ],
+  "loading": "You want more of Anomalo? We got you!",
+  "endOfText": "That's all, folks!",
+  "alive": "Welcome to Anomalo!",
+  "cute": "",
+  "instructions": "Click on the image and download Anomalo resource.",
+  "paypalButtonSrc": "/img/Donate_175px.jpg",
+  "altPaypal": "Support us!"
 }

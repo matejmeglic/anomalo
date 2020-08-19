@@ -101,6 +101,12 @@ h2 {
   color: #525252;
 }
 
+h5 {
+  font-family: jannscript;
+  font-weight: 500;
+  font-size: 18px;
+}
+
 a {
   font-family: jannscript;
   color: gray;
