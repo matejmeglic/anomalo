@@ -16,13 +16,13 @@ class App extends Component {
   render() {
     function set_slo() {
       this.setState({
-        articles: data_slo.articles,
+        articles: data_slo.default.articles,
       });
     }
 
     function set_en() {
       this.setState({
-        articles: data_en.articles,
+        articles: data_en.default.articles,
       });
     }
 
