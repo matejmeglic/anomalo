@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloigrezavsakdan",
+      "source": "FBPostIgre_350px.jpg",
+      "alt": "Igre za vsak dan"
+    },
+    {
+      "link": "https://bit.ly/anomalorojstnodnevnikoledar",
+      "source": "SL_FBPostRojstnodnevniKoledar_350px.jpg",
+      "alt": "Rojstnodnevni koledarji"
+    },
+    {
       "link": "https://bit.ly/anomaloobzacetkusolskegaleta2",
       "source": "SL_ObzačetkuletaPost2_350px.jpg",
       "alt": "Ob začetku leta 2"
