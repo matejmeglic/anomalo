@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalournik",
+      "source": "SL_UrnikPost_350px.jpg",
+      "alt": "Urnik"
+    },
+    {
+      "link": "https://bit.ly/anomaloigrezateambuilding",
+      "source": "SLO_Igrezateambuilding_350px.jpg",
+      "alt": "Igre za team building"
+    },
+    {
       "link": "https://bit.ly/anomalorojstnodnevnikoledar",
       "source": "SL_FBPostRojstnodnevniKoledar_350px.jpg",
       "alt": "Rojstnodnevni koledarji"
