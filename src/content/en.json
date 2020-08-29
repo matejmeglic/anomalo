@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomaloschedule",
+      "source": "EN_UrnikPost_350px.jpg",
+      "alt": "Schedule"
+    },
+    {
+      "link": "https://bit.ly/anomaloteambuildinggames",
+      "source": "EN_Igrezateambuilding_350px.jpg",
+      "alt": "Team Builsing Games"
+    },
+    {
       "link": "https://bit.ly/anomalobirthdaycalendar",
       "source": "EN_FBPostRojstnodnevniKoledar_350px.jpg",
       "alt": "Birthday Calendars"
