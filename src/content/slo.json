@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomaloaktivnostiobranju",
+      "source": "SL_Reading Activities_350px.jpg",
+      "alt": "Aktivnosti ob branju"
+    },
+    {
+      "link": "https://bit.ly/anomaloigrazavsakdan",
+      "source": "FBPostIgre_350px.jpg",
+      "alt": "Igre za vsak dan"
+    }, 
+    {
       "link": "http://bit.ly/anomalournik",
       "source": "SL_UrnikPost_350px.jpg",
       "alt": "Urnik"
