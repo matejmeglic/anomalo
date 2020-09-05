@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomaloreadingactivities",
+      "source": "EN_Reading Activities_350px.jpg",
+      "alt": "Reading Activities"
+    },
+    {
       "link": "http://bit.ly/anomaloschedule",
       "source": "EN_UrnikPost_350px.jpg",
       "alt": "Schedule"
