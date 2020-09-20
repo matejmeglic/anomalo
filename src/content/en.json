@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalographicorganisers",
+      "source": "EN_Graphicorganizers_350px.jpg",
+      "alt": "Graphic Organizers"
+    },  
+    {
       "link": "http://bit.ly/anomaloreadingactivities",
       "source": "EN_Reading Activities_350px.jpg",
       "alt": "Reading Activities"
