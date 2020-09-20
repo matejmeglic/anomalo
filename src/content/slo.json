@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalograficniorganizatorji",
+      "source": "SL_Graficniorganizatorji_350px.jpg",
+      "alt": "Graficni organizatorji"
+    },    
+    {
       "link": "http://bit.ly/anomaloaktivnostiobranju",
       "source": "SL_Reading Activities_350px.jpg",
       "alt": "Aktivnosti ob branju"
