@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalobiigquestions",
+      "source": "EN_velikavprasanjapost_350px.jpg",
+      "alt": "Big Questions"
+    },  
+    {
       "link": "https://bit.ly/anomalographicorganisers",
       "source": "EN_Graphicorganizers_350px.jpg",
       "alt": "Graphic Organizers"
