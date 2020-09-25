@@ -1,6 +1,10 @@
 {
   "articles": [
-
+    {
+      "link": "https://bit.ly/anomalonetsofdice",
+      "source": "EN_Kockepost_350px.jpg",
+      "alt": "Nets of dice"
+    },
     {
       "link": "https://bit.ly/anomalobiigquestions",
       "source": "EN_velikavprasanjapost_350px.jpg",
