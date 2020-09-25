@@ -1,6 +1,10 @@
 {
   "articles": [
-
+    {
+      "link": "https://bit.ly/anomaloplasciteles",
+      "source": "SL_Kockepost_350px.jpg",
+      "alt": "Plašči teles"
+    }, 
     {
       "link": "https://bit.ly/anomalovelikavprašanja",
       "source": "SL_velikavprasanjapost_350px.jpg",
