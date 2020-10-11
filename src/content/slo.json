@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloobšolskihekskurzijah",
+      "source": "SL_ekskurzijepost_350px.jpg",
+      "alt": "Ekskurzije"
+    },    
+    {
       "link": "https://bit.ly/anomalotedenotroka2020",
       "source": "SL_TedenOtroka_350px.jpg",
       "alt": "Teden otroka 2020"
