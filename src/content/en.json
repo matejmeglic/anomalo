@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalofieldtripresources",
+      "source": "EN_ekskurzijepost_350px.jpg",
+      "alt": "Field trips"
+    },    
+    {
       "link": "https://bit.ly/anomalonetsofdice",
       "source": "EN_Kockepost_350px.jpg",
       "alt": "Nets of dice"
