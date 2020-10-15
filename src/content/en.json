@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloworldfoodday",
+      "source": "EN_DanHrane1_350px.jpg",
+      "alt": "World food day"
+    },      
+    {
       "link": "https://bit.ly/anomalofieldtripresources",
       "source": "EN_ekskurzijepost_350px.jpg",
       "alt": "Field trips"

@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalosvetovnidanhrane",
+      "source": "SL_DanHrane1_350px.jpg",
+      "alt": "Svetovni dan hrane"
+    },       
+    {
       "link": "https://bit.ly/anomaloobšolskihekskurzijah",
       "source": "SL_ekskurzijepost_350px.jpg",
       "alt": "Ekskurzije"
