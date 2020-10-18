@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalopenpals",
+      "source": "EN_pisemskiprijateljpost_350px.jpg",
+      "alt": "Pen pal"
+    },     
+    {
+      "link": "https://bit.ly/anomalo6activelisteninggames",
+      "source": "EN_aktivnoposlusanjepost_350px.jpg",
+      "alt": "Active listening"
+    },     
+    {
       "link": "https://bit.ly/anomaloworldfoodday",
       "source": "EN_DanHrane1_350px.jpg",
       "alt": "World food day"

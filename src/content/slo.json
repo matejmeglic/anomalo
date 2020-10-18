@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalopisemskiiprijatelj",
+      "source": "SL_pisemskiprijateljpost_350px.jpg",
+      "alt": "Pisemski prijatelj"
+    },  
+    {
+      "link": "https://bit.ly/anomalo6igeraktivnegaposlusanja",
+      "source": "SL_aktivnoposlusanjepost_350px.jpg",
+      "alt": "Aktivno poslušanje"
+    },     
+    {
       "link": "https://bit.ly/anomalosvetovnidanhrane",
       "source": "SL_DanHrane1_350px.jpg",
       "alt": "Svetovni dan hrane"
