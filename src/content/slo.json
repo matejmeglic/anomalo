@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloucenjenadaljavo",
+      "source": "SL_učenjenadaljavopost_350px.jpg",
+      "alt": "Učenje na daljavo"
+    }, 
+    {
       "link": "https://bit.ly/anomalorazrednenagrade",
       "source": "SL_razrednenagradepost_350px.jpg",
       "alt": "Razredne nagrade"

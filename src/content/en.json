@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloonlinelearning",
+      "source": "EN_učenjenadaljavopost_350px.jpg",
+      "alt": "Online learning"
+    }, 
+    {
       "link": "https://bit.ly/anomaloclassroomrewards",
       "source": "EN_razrednenagradepost_350px.jpg",
       "alt": "Classroom rewards"
