@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalopaperforprint",
+      "source": "EN_PapirPost_350px.jpg",
+      "alt": "Paper"
+    }, 
+    {
       "link": "https://bit.ly/anomaloworldkindnessday",
       "source": "EN_danprijaznostipost_350px.jpg",
       "alt": "World kindness day"
