@@ -1,9 +1,14 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalomusicpapertemplates",
+      "source": "EN_musicpaperpost_350px.jpg",
+      "alt": "Music paper"
+    }, 
+    {
       "link": "https://bit.ly/anomalopapertemplates",
       "source": "EN_PapirPost_350px.jpg",
-      "alt": "Paper"
+      "alt": "Printing paper"
     }, 
     {
       "link": "https://bit.ly/anomaloworldkindnessday",
