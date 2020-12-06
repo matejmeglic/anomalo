@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloslanotesto",
+      "source": "SL_slanotestopost1_350px.jpg",
+      "alt": "Slano testo"
+    },
+    {
       "link": "https://bit.ly/anomalozimskivrocinapoji",
       "source": "SL_vročinapojipost_350px.jpg",
       "alt": "Zimski vroči napoji"
