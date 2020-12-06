@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalosaltdough",
+      "source": "EN_slanotestopost1_350px.jpg",
+      "alt": "Salt Dough"
+    },
+    {
       "link": "https://bit.ly/anomalohotwinterdrinks",
       "source": "EN_vročinapojipost_350px.jpg",
       "alt": "Hot Winter Drinks"
