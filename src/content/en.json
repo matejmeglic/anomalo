@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalobirdfeeder",
+      "source": "EN_ptičjakrmilnicapost_350px.jpg",
+      "alt": "Bird Feeder"
+    },
+    {
       "link": "https://bit.ly/anomalosaltdough",
       "source": "EN_slanotestopost1_350px.jpg",
       "alt": "Salt Dough"
