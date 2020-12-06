@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloptičjakrmilnica",
+      "source": "SL_ptičjakrmilnicapost_350px.jpg",
+      "alt": "Ptičja krmilnica"
+    },
+    {
       "link": "https://bit.ly/anomaloslanotesto",
       "source": "SL_slanotestopost1_350px.jpg",
       "alt": "Slano testo"
