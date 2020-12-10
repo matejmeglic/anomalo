@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalomedenahiska",
+      "source": "SL_medenahiškapost_350px.jpg",
+      "alt": "Medena hiška"
+    },
+    {
       "link": "https://bit.ly/anomalobožičnipapir",
       "source": "SL_bozicnipapirpost_350px.jpg",
       "alt": "Božični papir"
