@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalogingerbreadhouse",
+      "source": "EN_medenahiškapost_350px.jpg",
+      "alt": "Ginger Bread House"
+    },
+    {
       "link": "https://bit.ly/anomalochristmaspaper",
       "source": "EN_bozicnipapirpost_350px.jpg",
       "alt": "Christmas Paper"
