@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalopovezivase",
+      "source": "SL_povezivasepost_350px.jpg",
+      "alt": "Poveživa se"
+    },
+    {
       "link": "https://bit.ly/anomalooznakezadarila",
       "source": "SL_oznakezadarila_350px.jpg",
       "alt": "Oznake za darila"
