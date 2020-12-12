@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloletsconnect",
+      "source": "EN_povezivasepost_350px.jpg",
+      "alt": "Ler's Connect"
+    },
+    {
       "link": "https://bit.ly/anomalogifttags",
       "source": "EN_oznakezadarila_350px.jpg",
       "alt": "Gift Tags"
