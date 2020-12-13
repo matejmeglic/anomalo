@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalosnežnakrogla",
+      "source": "SL_snežnakroglapost_350px.jpg",
+      "alt": "Snežna krogla"
+    },
+    {
       "link": "https://bit.ly/anomalopovezivase",
       "source": "SL_povezivasepost_350px.jpg",
       "alt": "Poveživa se"

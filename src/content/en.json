@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalosnowglobe",
+      "source": "EN_snežnakroglapost_350px.jpg",
+      "alt": "Snow Globe"
+    },
+    {
       "link": "https://bit.ly/anomaloletsconnect",
       "source": "EN_povezivasepost_350px.jpg",
       "alt": "Ler's Connect"
