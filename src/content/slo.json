@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalojaslice",
+      "source": "SL_jaslicepost_350px.jpg",
+      "alt": "Jaslice"
+    },
+    {
       "link": "https://bit.ly/anomalopiskotivkozarcu",
       "source": "SL_piškotivkozarcupost_350px.jpg",
       "alt": "Piškoti v kozarcu"
