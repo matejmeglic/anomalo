@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalonativityscene",
+      "source": "EN_jaslicepost_350px.jpg",
+      "alt": "Nativity Scene"
+    },
+    {
       "link": "https://bit.ly/anomalocookiesinajar",
       "source": "EN_piškotivkozarcupost_350px.jpg",
       "alt": "Cookies in a jar"
