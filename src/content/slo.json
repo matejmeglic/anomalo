@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalodobradela",
+      "source": "SL_prijaznostpost_350px.jpg",
+      "alt": "Dobra dela"
+    },
+    {
+      "link": "http://bit.ly/anomaloprtičkiizblaga",
+      "source": "SL_prtičkiizblagapost_350px.jpg",
+      "alt": "Prtički iz blaga"
+    },
+    {
+      "link": "http://bit.ly/anomalobozicnipiskoti",
+      "source": "SL_božičnipiškotipost_350px.jpg",
+      "alt": "Božični piškoti"
+    },
+    {
       "link": "https://bit.ly/anomalojaslice",
       "source": "SL_jaslicepost_350px.jpg",
       "alt": "Jaslice"

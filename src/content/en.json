@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalogooddeeds",
+      "source": "EN_prijaznostpost_350px.jpg",
+      "alt": "Good Deeds"
+    },
+    {
+      "link": "http://bit.ly/anomalofabricnapkins",
+      "source": "EN_prtičkiizblagapost_350px.jpg",
+      "alt": "Fabric Napkins"
+    },
+    {
+      "link": "http://bit.ly/anomalochristmascookies",
+      "source": "EN_božičnipiškotipost_350px.jpg",
+      "alt": "Christmas Cookies"
+    },  
+    {
       "link": "https://bit.ly/anomalonativityscene",
       "source": "EN_jaslicepost_350px.jpg",
       "alt": "Nativity Scene"
