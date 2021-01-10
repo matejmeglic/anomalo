@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalopapiermacheglue",
+      "source": "EN_papiermachepost_350px.jpg",
+      "alt": "Papier Mache Glue"
+    },
+    {
       "link": "https://bit.ly/anomalogoals2021",
       "source": "EN_moji cilji post_350px.jpg",
       "alt": "Goals"

@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalopapiermache",
+      "source": "SL_papiermachepost_350px.jpg",
+      "alt": "Papier mache"
+    },
+    {
       "link": "https://bit.ly/anomalocilji2021",
       "source": "SL_moji cilji post_350px.jpg",
       "alt": "Cilji"
