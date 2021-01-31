@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalomealplanning",
+      "source": "EN_načrtobrokovpost_350px.jpg",
+      "alt": "Meal Planning"
+    },
+    {
       "link": "http://bit.ly/anomaloworldhandwritingday",
       "source": "EN_obtednupisanjanaroke_350px.jpg",
       "alt": "World Handwriting Day"
