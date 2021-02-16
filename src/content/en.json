@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalodoughnutsrecipe",
+      "source": "EN_krofirecept_350px.jpg",
+      "alt": "Doughnuts Recipe"
+    },
+    {
       "link": "http://bit.ly/anomalomealplanning",
       "source": "EN_načrtobrokovpost_350px.jpg",
       "alt": "Meal Planning"
