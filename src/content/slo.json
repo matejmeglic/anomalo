@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalodomacagranola",
+      "source": "SL_granolareceptpost_350px.jpg",
+      "alt": "Recept za domačo granolo"
+    },
+    {
+      "link": "http://bit.ly/anomalotangram",
+      "source": "SL_tangrampost_350px.jpg",
+      "alt": "Tangram"
+    },
+    {
+      "link": "http://bit.ly/anomalomesecniizzivi",
+      "source": "SL_mesečniizzivi_350px.jpg",
+      "alt": "Mesečni izzivi"
+    },    
+    {
       "link": "http://bit.ly/anomalokrofrecept",
       "source": "SL_krofirecept_350px.jpg",
       "alt": "Recept za krofe"
