@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalohomemadegranola",
+      "source": "EN_granolareceptpost_350px.jpg",
+      "alt": "Home Made Granola Recipe"
+    },
+    {
+      "link": "http://bit.ly/anomalodiytangram",
+      "source": "EN_tangrampost_350px.jpg",
+      "alt": "DIY Tangram"
+    },
+    {
+      "link": "http://bit.ly/anomalomonthlychallenges",
+      "source": "EN_mesečniizzivi_350px.jpg",
+      "alt": "Monthly Challenges"
+    },    
+    {
       "link": "http://bit.ly/anomalodoughnutsrecipe",
       "source": "EN_krofirecept_350px.jpg",
       "alt": "Doughnuts Recipe"
