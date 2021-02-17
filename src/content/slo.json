@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomaloizstopnice",
+      "source": "SL_izstopnicepost_350px.jpg",
+      "alt": "Izstopnice"
+    },
+    {
       "link": "https://bit.ly/anomalodomacagranola",
       "source": "SL_granolareceptpost_350px.jpg",
       "alt": "Recept za domačo granolo"
