@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomaloexittickets",
+      "source": "EN_izstopnicepost_350px.jpg",
+      "alt": "Exit Tickets"
+    },
+    {
       "link": "https://bit.ly/anomalohomemadegranola",
       "source": "EN_granolareceptpost_350px.jpg",
       "alt": "Home Made Granola Recipe"
