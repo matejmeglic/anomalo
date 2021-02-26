@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloreadinginstructions",
+      "source": "EN_branjenavodilpost_350px.jpg",
+      "alt": "Reading Instructions"
+    },
+    {
       "link": "http://bit.ly/anomaloexittickets",
       "source": "EN_izstopnicepost_350px.jpg",
       "alt": "Exit Tickets"
