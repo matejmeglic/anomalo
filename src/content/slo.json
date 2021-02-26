@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloberesnavodila",
+      "source": "SL_branjenavodilpost_350px.jpg",
+      "alt": "Ali bereš navodila?"
+    },
+    {
       "link": "http://bit.ly/anomaloizstopnice",
       "source": "SL_izstopnicepost_350px.jpg",
       "alt": "Izstopnice"
