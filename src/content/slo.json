@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalojabolcnapita",
+      "source": "SL_jabolcnapita_350px.jpg",
+      "alt": "Jabolčna pita"
+    },
+    {
       "link": "https://bit.ly/anomaloberesnavodila",
       "source": "SL_branjenavodilpost_350px.jpg",
       "alt": "Ali bereš navodila?"
