@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomaloapplepie",
+      "source": "EN_applepie_350px.jpg",
+      "alt": "Apple Pie"
+    },
+    {
       "link": "https://bit.ly/anomaloreadinginstructions",
       "source": "EN_branjenavodilpost_350px.jpg",
       "alt": "Reading Instructions"
