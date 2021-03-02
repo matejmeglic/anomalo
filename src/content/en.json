@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalochooseyourownadventure",
+      "source": "EN_izberisvojopustolovščinopost_350px.jpg",
+      "alt": "Choose Your Own Adventure"
+    },
+    {
       "link": "http://bit.ly/anomaloapplepie",
       "source": "EN_applepie_350px.jpg",
       "alt": "Apple Pie"
