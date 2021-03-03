@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalodanžena",
+      "source": "SL_danženapost_350px.jpg",
+      "alt": "Dan žena"
+    },
+    {
       "link": "https://bit.ly/anomaloizberisvojopustolovščino",
       "source": "SL_izberisvojopustolovščinopost_350px.jpg",
       "alt": "Izberi svojo pustolovščino"
