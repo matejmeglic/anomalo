@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalocimetovipolžki",
+      "source": "SL_cimetovipolžkipost_350px.jpg",
+      "alt": "Cimetovi polžki"
+    },
+    {
       "link": "http://bit.ly/anomalodanžena",
       "source": "SL_danženapost_350px.jpg",
       "alt": "Dan žena"
