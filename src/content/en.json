@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalocinnamonbuns",
+      "source": "EN_cimetovipolžkipost_350px.jpg",
+      "alt": "Cinnamon Buns"
+    },
+    {
       "link": "http://bit.ly/anomalowomensday",
       "source": "EN_danženapost_350px.jpg",
       "alt": "Women's Day"
