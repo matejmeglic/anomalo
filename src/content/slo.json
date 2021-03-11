@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalozmenki",
+      "source": "SL_zmenkipost_350px.jpg",
+      "alt": "Ideje za zmenke"
+    },
+    {
       "link": "https://bit.ly/anomalocimetovipolžki",
       "source": "SL_cimetovipolžkipost_350px.jpg",
       "alt": "Cimetovi polžki"
