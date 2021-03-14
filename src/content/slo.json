@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalodanštevilapi",
+      "source": "SL_pidaypost_350px.jpg",
+      "alt": "Dan števila Pi"
+    },
+    {
+      "link": "http://bit.ly/anomaloplastelin",
+      "source": "SL_plastelinpost_350px.jpg",
+      "alt": "Naredi plastelin"
+    },
+    {
       "link": "http://bit.ly/anomalozmenki",
       "source": "SL_zmenkipost_350px.jpg",
       "alt": "Ideje za zmenke"
