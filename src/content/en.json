@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalopiday",
+      "source": "EN_pidaypost_350px.jpg",
+      "alt": "Pi Day"
+    },
+    {
+      "link": "http://bit.ly/anomaloplaydough",
+      "source": "EN_plastelinpost_350px.jpg",
+      "alt": "DIY a Play Dough"
+    },
+    {
       "link": "http://bit.ly/anomalodatecards",
       "source": "EN_zmenkipost_350px.jpg",
       "alt": "Date Cards"
