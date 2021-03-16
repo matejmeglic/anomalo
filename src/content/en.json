@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloearlyfinishers",
+      "source": "EN_končaniučencipost_350px.jpg",
+      "alt": "Early Finishers"
+    },
+    {
       "link": "http://bit.ly/anomalopiday",
       "source": "EN_pidaypost_350px.jpg",
       "alt": "Pi Day"
