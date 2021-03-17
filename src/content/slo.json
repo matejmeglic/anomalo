@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalobitmojinavodila",
+      "source": "SL_bitmojinavodilapost_350px.jpg",
+      "alt": "Navodila za izdelavo lastnega Bitmoji-ja"
+    },
+    {
       "link": "https://bit.ly/anomalozaučencekisožekončali",
       "source": "SL_končaniučencipost_350px.jpg",
       "alt": "Za učence, ki hitro končajo"
