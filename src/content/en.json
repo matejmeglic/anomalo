@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalosensorybottle",
+      "source": "EN_senzoričnasteklenicapost_350px.jpg",
+      "alt": "Sensory Bottle"
+    },
+    {
       "link": "http://bit.ly/anomalobitmojiinstructions",
       "source": "EN_bitmojinavodilapost_350px.jpg",
       "alt": "Your Own Bitmoji - Instructions"
