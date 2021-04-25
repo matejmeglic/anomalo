@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "http://bit.ly/anomalobubbles",
+      "source": "EN_milnimehurčkipost_350px.jpg",
+      "alt": "Bubbles"
+    },
+    {
       "link": "http://bit.ly/anomalorelaxingball",
       "source": "EN_sproščujočažogica_350px.jpg",
       "alt": "Relaxing Ball"
