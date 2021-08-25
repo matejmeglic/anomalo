@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalosetofactivities",
+      "source": "EN_obzačetkuletapost3zbrane_350px.jpg",
+      "alt": "Set of activities"
+    },
+    {
       "link": "http://bit.ly/anomalobubbles",
       "source": "EN_milnimehurčkipost_350px.jpg",
       "alt": "Bubbles"
@@ -271,19 +276,9 @@
       "alt": "Birthday Calendars"
     },
     {
-      "link": "https://bit.ly/anomalostartoftheyear2",
-      "source": "EN_ObzačetkuletaPost2_350PX.jpg",
-      "alt": "Start of school year 2"
-    },
-    {
       "link": "https://bit.ly/anomaloplanners",
       "source": "EN_FBPlanerji_350px.jpg",
       "alt": "Planners"
-    },
-    {
-      "link": "https://bit.ly/anomalostartoftheyear",
-      "source": "EN_ObzačetkuletaPost1_350px.jpg",
-      "alt": "Start of school year 1"
     },
     {
       "link": "https://bit.ly/anomalohomemadelabels",
