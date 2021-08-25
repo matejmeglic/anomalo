@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalozbraneaktivnosti",
+      "source": "SL_obzačetkuletapost3zbrane_350px.jpg",
+      "alt": "Zbrane Aktivnosti - Ob začetku šolskega leta"
+    },
+    {
       "link": "http://bit.ly/anomalomilnimehurcki",
       "source": "SL_milnimehurčkipost_350px.jpg",
       "alt": "Mehurčki"
@@ -286,19 +291,9 @@
       "alt": "Rojstnodnevni koledarji"
     },
     {
-      "link": "https://bit.ly/anomaloobzacetkusolskegaleta2",
-      "source": "SL_ObzačetkuletaPost2_350px.jpg",
-      "alt": "Ob začetku leta 2"
-    },
-    {
       "link": "https://bit.ly/anomaloplanerji",
       "source": "SL_FBPlanerji_350px.jpg",
       "alt": "Planerji"
-    },
-    {
-      "link": "https://bit.ly/anomaloobzacetkusolskegaleta",
-      "source": "SL_ObzačetkuletaPost1_350px.jpg",
-      "alt": "Ob začetku leta 1"
     },
     {
       "link": "https://bit.ly/anomalodomaceoznake",
