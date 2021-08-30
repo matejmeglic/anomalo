@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalonajdesnas",
+      "source": "SL_najdešnaspost_350px.jpg",
+      "alt": "Najdeš nas"
+    },
+    {
       "link": "https://bit.ly/anomalopomirjujocaskatla",
       "source": "SL_Pomirjujočaškatla_350px.jpg",
       "alt": "Pomirjujoča škatla"
