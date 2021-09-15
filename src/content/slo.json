@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalooblikovanjeskupin",
+      "source": "SL_oblikovanjeskupinpost_350px.jpg",
+      "alt": "Oblikovanje skupin"
+    },
+    {
+      "link": "https://bit.ly/anomaloveternica",
+      "source": "SL_veternicapost_350px.jpg",
+      "alt": "Naredi sam: Veternica"
+    },
+    {
       "link": "https://bit.ly/anomalopomirjujocaskatla",
       "source": "SL_Pomirjujočaškatla_350px.jpg",
       "alt": "Pomirjujoča škatla"
