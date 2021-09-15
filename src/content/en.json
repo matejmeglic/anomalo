@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloforminggroups",
+      "source": "EN_oblikovanjeskupinpost_350px.jpg",
+      "alt": "Forming Groups"
+    },
+    {
+      "link": "https://bit.ly/anomalopinwheel",
+      "source": "EN_veternicapost_350px.jpg",
+      "alt": "DIY: Pinwheel"
+    },
+    {
       "link": "https://bit.ly/anomalowherearewe",
       "source": "EN_najdešnaspost_350px.jpg",
       "alt": "Where are we"
