@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloworldpeaceday",
+      "source": "EN_svetovnidanmirupost_350px.jpg",
+      "alt": "Peace Day"
+    },
+    {
       "link": "https://bit.ly/anomaloforminggroups",
       "source": "EN_oblikovanjeskupinpost_350px.jpg",
       "alt": "Forming Groups"
