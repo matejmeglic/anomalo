@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalobrainbreaks",
+      "source": "EN_možganskipremori_350px.jpg",
+      "alt": "Brain Breaks"
+    },
+    {
       "link": "https://bit.ly/anomaloworldpeaceday",
       "source": "EN_svetovnidanmirupost_350px.jpg",
       "alt": "Peace Day"
