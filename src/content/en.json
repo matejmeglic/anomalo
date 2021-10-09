@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalofeeltoday",
+      "source": "EN_kakosepočutišpost_350px.jpg",
+      "alt": "How Do You Feel Today"
+    },
+    {
       "link": "https://bit.ly/anomalobrainbreaks",
       "source": "EN_možganskipremori_350px.jpg",
       "alt": "Brain Breaks"
