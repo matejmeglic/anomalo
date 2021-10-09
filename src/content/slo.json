@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalopocutisdanes",
+      "source": "SL_kakosepočutišpost_350px.jpg",
+      "alt": "Kako se počutiš danes?"
+    },
+    {
       "link": "https://bit.ly/anomalomozganskipremori",
       "source": "SL_možganskipremori_350px.jpg",
       "alt": "Možganski premori"
