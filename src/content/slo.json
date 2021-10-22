@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalolegoizziv",
+      "source": "SL_legoizzivpost_350px.jpg",
+      "alt": "Lego izziv"
+    },
+    {
       "link": "https://bit.ly/anomalooblikovanjeskupin",
       "source": "SL_oblikovanjeskupinpost_350px.jpg",
       "alt": "Oblikovanje skupin"
