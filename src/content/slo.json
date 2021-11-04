@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalokajimamoskupnega",
+      "source": "SL_kajimamoskupnegapost_350px.jpg",
+      "alt": "Kaj imamo skupnega?"
+    },
+    {
       "link": "https://bit.ly/anomalopopravnaznamenja",
       "source": "SL_popravnaznamenjapost_350px.jpg",
       "alt": "Popravna znamenja"
