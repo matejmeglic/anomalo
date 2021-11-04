@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloincommon",
+      "source": "EN_kajimamoskupnegapost_350px.jpg",
+      "alt": "What do we have in common"
+    },
+    {
       "link": "https://bit.ly/anomalocorrectionsigns",
       "source": "EN_popravnaznamenjapost_350px.jpg",
       "alt": "Correction Signs"
