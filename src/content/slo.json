@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloskrivnosporočilo",
+      "source": "SL_skrivnosporočilopost_350px.jpg",
+      "alt": "Skrivno sporočilo"
+    },
+    {
       "link": "https://bit.ly/anomalokajimamoskupnega",
       "source": "SL_kajimamoskupnegapost_350px.jpg",
       "alt": "Kaj imamo skupnega?"
