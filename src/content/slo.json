@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalorazredneslužbe",
+      "source": "SL_razredneslužbepost_350px.jpg",
+      "alt": "Razredne službe"
+    },
+    {
       "link": "https://bit.ly/anomaloskrivnosporočilo",
       "source": "SL_skrivnosporočilopost_350px.jpg",
       "alt": "Skrivno sporočilo"
