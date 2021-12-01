@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalodelovskupinah",
+      "source": "SL_delovskupinahpost_350px.jpg",
+      "alt": "Delo v skupinah"
+    },
+    {
       "link": "https://bit.ly/anomalorazredneslužbe",
       "source": "SL_razredneslužbepost_350px.jpg",
       "alt": "Razredne službe"
