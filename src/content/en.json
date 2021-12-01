@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalogroupwork",
+      "source": "EN_delovskupinahpost_350px.jpg",
+      "alt": "Group Work"
+    },
+    {
       "link": "https://bit.ly/anomaloclassroomjobs",
       "source": "EN_razredneslužbepost_350px.jpg",
       "alt": "Classroom jobs"
