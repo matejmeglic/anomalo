@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalorjavcki",
+      "source": "SL_receptrjavcki_350px.jpg",
+      "alt": "Rjavčki"
+    },
+    {
       "link": "https://bit.ly/anomalolegoizziv",
       "source": "SL_legoizzivpost_350px.jpg",
       "alt": "Lego izziv"
