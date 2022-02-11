@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+
+      "link": "https://bit.ly/anomalorjavcki",
+      "source": "SL_receptrjavcki_350px.jpg",
+      "alt": "Rjavčki"
+=======
       "link": "https://bit.ly/anomalodelovskupinah",
       "source": "SL_delovskupinahpost_350px.jpg",
       "alt": "Delo v skupinah"
@@ -24,6 +29,7 @@
       "link": "https://bit.ly/anomalopopravnaznamenja",
       "source": "SL_popravnaznamenjapost_350px.jpg",
       "alt": "Popravna znamenja"
+
     },
     {
       "link": "https://bit.ly/anomalolegoizziv",
@@ -31,6 +37,8 @@
       "alt": "Lego izziv"
     },
     {
+
+=======
       "link": "https://bit.ly/anomalopocutisdanes",
       "source": "SL_kakosepočutišpost_350px.jpg",
       "alt": "Kako se počutiš danes?"
@@ -51,6 +59,7 @@
       "alt": "Svetovni dan miru"
     },
     {
+
       "link": "https://bit.ly/anomalooblikovanjeskupin",
       "source": "SL_oblikovanjeskupinpost_350px.jpg",
       "alt": "Oblikovanje skupin"
