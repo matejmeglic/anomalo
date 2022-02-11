@@ -1,9 +1,35 @@
 {
   "articles": [
     {
+
       "link": "https://bit.ly/anomalobrownies",
       "source": "EN_receptrjavcki_350px.jpg",
       "alt": "Brownies"
+=======
+      "link": "https://bit.ly/anomalogroupwork",
+      "source": "EN_delovskupinahpost_350px.jpg",
+      "alt": "Group Work"
+    },
+    {
+      "link": "https://bit.ly/anomaloclassroomjobs",
+      "source": "EN_razredneslužbepost_350px.jpg",
+      "alt": "Classroom jobs"
+    },
+    {
+      "link": "https://bit.ly/anomalosecretmessage",
+      "source": "EN_skrivnosporočilopost_350px.jpg",
+      "alt": "Secret Message"
+    },
+    {
+      "link": "https://bit.ly/anomaloincommon",
+      "source": "EN_kajimamoskupnegapost_350px.jpg",
+      "alt": "What do we have in common"
+    },
+    {
+      "link": "https://bit.ly/anomalocorrectionsigns",
+      "source": "EN_popravnaznamenjapost_350px.jpg",
+      "alt": "Correction Signs"
+
     },
     {
       "link": "https://bit.ly/anomalolegochallenge",
@@ -11,6 +37,24 @@
       "alt": "Lego Challenge"
     },
     {
+
+=======
+      "link": "https://bit.ly/anomalofeeltoday",
+      "source": "EN_kakosepočutišpost_350px.jpg",
+      "alt": "How Do You Feel Today"
+    },
+    {
+      "link": "https://bit.ly/anomalobrainbreaks",
+      "source": "EN_možganskipremori_350px.jpg",
+      "alt": "Brain Breaks"
+    },
+    {
+      "link": "https://bit.ly/anomaloworldpeaceday",
+      "source": "EN_svetovnidanmirupost_350px.jpg",
+      "alt": "Peace Day"
+    },
+    {
+
       "link": "https://bit.ly/anomaloforminggroups",
       "source": "EN_oblikovanjeskupinpost_350px.jpg",
       "alt": "Forming Groups"

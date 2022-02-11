@@ -1,9 +1,35 @@
 {
   "articles": [
     {
+
       "link": "https://bit.ly/anomalorjavcki",
       "source": "SL_receptrjavcki_350px.jpg",
       "alt": "Rjavčki"
+=======
+      "link": "https://bit.ly/anomalodelovskupinah",
+      "source": "SL_delovskupinahpost_350px.jpg",
+      "alt": "Delo v skupinah"
+    },
+    {
+      "link": "https://bit.ly/anomalorazredneslužbe",
+      "source": "SL_razredneslužbepost_350px.jpg",
+      "alt": "Razredne službe"
+    },
+    {
+      "link": "https://bit.ly/anomaloskrivnosporočilo",
+      "source": "SL_skrivnosporočilopost_350px.jpg",
+      "alt": "Skrivno sporočilo"
+    },
+    {
+      "link": "https://bit.ly/anomalokajimamoskupnega",
+      "source": "SL_kajimamoskupnegapost_350px.jpg",
+      "alt": "Kaj imamo skupnega?"
+    },
+    {
+      "link": "https://bit.ly/anomalopopravnaznamenja",
+      "source": "SL_popravnaznamenjapost_350px.jpg",
+      "alt": "Popravna znamenja"
+
     },
     {
       "link": "https://bit.ly/anomalolegoizziv",
@@ -11,6 +37,29 @@
       "alt": "Lego izziv"
     },
     {
+
+=======
+      "link": "https://bit.ly/anomalopocutisdanes",
+      "source": "SL_kakosepočutišpost_350px.jpg",
+      "alt": "Kako se počutiš danes?"
+    },
+    {
+      "link": "https://bit.ly/anomalomozganskipremori",
+      "source": "SL_možganskipremori_350px.jpg",
+      "alt": "Možganski premori"
+    },
+    {
+      "link": "https://bit.ly/anomalotedenotroka2021",
+      "source": "tedenotroka2021_350px.jpg",
+      "alt": "Teden otroka - Razigran uživaj dan"
+    },
+    {
+      "link": "https://bit.ly/anomalosvetovnidanmiru",
+      "source": "SL_svetovnidanmirupost_350px.jpg",
+      "alt": "Svetovni dan miru"
+    },
+    {
+
       "link": "https://bit.ly/anomalooblikovanjeskupin",
       "source": "SL_oblikovanjeskupinpost_350px.jpg",
       "alt": "Oblikovanje skupin"
