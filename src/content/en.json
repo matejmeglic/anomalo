@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalobrownies",
+      "source": "EN_receptrjavcki_350px.jpg",
+      "alt": "Brownies"
+    },
+    {
       "link": "https://bit.ly/anomalolegochallenge",
       "source": "EN_legoizzivpost_350px.jpg",
       "alt": "Lego Challenge"
