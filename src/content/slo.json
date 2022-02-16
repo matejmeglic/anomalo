@@ -1,7 +1,11 @@
 {
   "articles": [
     {
-
+      "link": "https://bit.ly/anomaloresevanjekonfliktov",
+      "source": "SL_resevanjekonfliktovpost_350px.jpg",
+      "alt": "Reševanje konfliktov"
+    },
+    {
       "link": "https://bit.ly/anomalorjavcki",
       "source": "SL_receptrjavcki_350px.jpg",
       "alt": "Rjavčki"
@@ -38,7 +42,6 @@
       "alt": "Lego izziv"
     },
     {
-
       "link": "https://bit.ly/anomalopocutisdanes",
       "source": "SL_kakosepočutišpost_350px.jpg",
       "alt": "Kako se počutiš danes?"
