@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalovoicemeter2",
+      "source": "EN_glasometer2post_350px.jpg",
+      "alt": "Voicemeter"
+    },
+    {
       "link": "https://bit.ly/anomaloconfliictresolution",
       "source": "EN_resevanjekonfliktovpost_350px.jpg",
       "alt": "Conflict Resolution"

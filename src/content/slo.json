@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomaloglasometer2",
+      "source": "SL_glasometer2post_350px.jpg",
+      "alt": "Glasometer"
+    },
+    {
       "link": "https://bit.ly/anomaloresevanjekonfliktov",
       "source": "SL_resevanjekonfliktovpost_350px.jpg",
       "alt": "Reševanje konfliktov"
