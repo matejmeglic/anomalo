@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalostarsibranje",
+      "source": "kakopomagampost_350px.jpg",
+      "alt": "Kako pomagati pri branju"
+    },
+    {
       "link": "https://bit.ly/anomaloglasometer2",
       "source": "SL_glasometer2post_350px.jpg",
       "alt": "Glasometer"
