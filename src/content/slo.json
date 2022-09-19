@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "link": "https://bit.ly/anomalozunaj",
+      "source": "kajpocetizunaj_350px.jpg",
+      "alt": "Kaj početi zunaj"
+    },
+    {
       "link": "https://bit.ly/anomaloroditeljskisestanek",
       "source": "roditeljskisestanekpost_350px.jpg",
       "alt": "Roditeljski sestanek"
